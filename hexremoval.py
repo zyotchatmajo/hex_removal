@@ -1,6 +1,6 @@
 import os
 
-folder_input = input("Enter the path for the output folder: ")
+folder_input = input("Enter the path for the input folder: ")
 folder_output = folder_input+r'_Extracted'
 
 bytes_toremove = 56 # For Break the Chains should be 56 bytes
